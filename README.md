@@ -1,1 +1,1 @@
-# Quick-Quiz-Play
+# General Quiz
